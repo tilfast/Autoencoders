@@ -18,3 +18,13 @@ https://wiseodd.github.io/techblog/2016/12/03/autoencoders/
 Recurrent network
 
 https://github.com/RobRomijnders/AE_ts
+
+
+Outlier detection in Time Series
+
+http://philipperemy.github.io/anomaly-detection/
+
+
+Fraud detection
+
+https://shiring.github.io/machine_learning/2017/05/01/fraud
