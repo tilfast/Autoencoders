@@ -25,6 +25,6 @@ Outlier detection in Time Series
 http://philipperemy.github.io/anomaly-detection/
 
 
-Fraud detection
+Fraud detection (H2O)
 
 https://shiring.github.io/machine_learning/2017/05/01/fraud
