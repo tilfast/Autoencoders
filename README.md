@@ -33,3 +33,7 @@ https://shiring.github.io/machine_learning/2017/05/01/fraud
 Time Series anomaly detection:
 
 https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2
+
+
+DOCUMENT:
+https://arxiv.org/pdf/1707.00666.pdf
