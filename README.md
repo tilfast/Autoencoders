@@ -28,3 +28,8 @@ http://philipperemy.github.io/anomaly-detection/
 Fraud detection (H2O)
 
 https://shiring.github.io/machine_learning/2017/05/01/fraud
+
+
+Time Series anomaly detection:
+
+https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2
