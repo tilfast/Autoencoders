@@ -13,3 +13,8 @@ https://blog.keras.io/building-autoencoders-in-keras.html
 
 
 https://wiseodd.github.io/techblog/2016/12/03/autoencoders/
+
+
+Recurrent network
+
+https://github.com/RobRomijnders/AE_ts
